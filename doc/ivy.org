@@ -368,7 +368,7 @@ extends usability of lists in Emacs.
      case, using ~C-j~ would select that existing file, which isn't
      what you want - use this command instead.
 
-- ~C-'~ (=ivy-avy=) ::
+- ~C-~ (=ivy-avy=) ::
      Uses avy to select one of the candidates on the current candidate
      page.  This can often be faster than multiple ~C-n~ or ~C-p~
      keystrokes followed by ~C-m~.
